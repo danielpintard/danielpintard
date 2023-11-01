@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @danielpintard
-- 👀 I’m interested in biology, particularly proteomics and genomics.
-- 🌱 I’m currently learning python along with libraries such as scipy, matplotlib, pandas and other data analysis tools.
-- 💞️ I’m looking to collaborate on bioinformatics/computational biology projects
+- 👋 Hi, I am Daniel Pintard. As of 2023-2024 academic year, I am a 3rd year undergraduate at b
+- 👀 I’m interested in biology, particularly molecular biology, bioinformatics and computational biology. Specifically, I am currently interested in studying protein 
+  structure and protein-protein interactions. 
+- 🌱 I have been working with Python for about 2 years now, and have experience with libraries such a pandas, numpy, biopython, matplotlib, seaborne and statsmodels 
+  just to name a few. 
+- 💞️ I’m looking to collaborate on bioinformatics/computational biology projects and even data science projects that operate within other scientific disciplines. 
 
 
 <!---
