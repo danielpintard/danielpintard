@@ -1,4 +1,4 @@
-- 👋 Hi, I am Daniel Pintard. As of 2023-2024 academic year, I am a 3rd year undergraduate at Marymount University. 
+- 👋 Hi, I am Daniel Pintard. I am currently a 3rd year undergraduate at Marymount University. My home country is The Bahamas 🇧🇸.
 - 👀 I’m interested in biology, particularly molecular biology, bioinformatics and computational biology. Specifically, I am currently interested in studying protein 
   structure and protein-protein interactions. 
 - 🌱 I have been working with Python for about 2 years now, and have experience with libraries such a pandas, numpy, biopython, matplotlib, seaborne and statsmodels 
